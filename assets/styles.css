@@ -1,0 +1,29 @@
+/* styles.css */
+
+/* Header */
+h3 {
+    color: blue;
+}
+
+/* Input labels */
+.label {
+    color: green;
+}
+
+/* Input fields */
+.input-field {
+    color: orange;
+}
+
+/* Buttons */
+.button {
+    background-color: purple;
+    color: white;
+    border: 2px solid black;
+}
+
+/* Table text */
+.table-text {
+    color: red;
+    font-family: Arial, sans-serif;
+}
