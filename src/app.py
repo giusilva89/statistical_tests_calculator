@@ -1,7 +1,6 @@
 import numpy as np
 from scipy.stats import t, norm, ttest_ind
 import dash
-import dash_html_components as html
 from dash import dcc, html
 from dash.dependencies import Input, Output, State
 import dash_bootstrap_components as dbc
